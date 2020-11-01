@@ -1,0 +1,48 @@
+<svg width="800" height="599" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs style="vector-effect: non-scaling-stroke;">
+  <linearGradient style="vector-effect: non-scaling-stroke;" y2="0" x2="1" y1="0" x1="0" id="svg_8">
+   <stop style="vector-effect: non-scaling-stroke;" offset="0" stop-opacity="0.99609" stop-color="#ffaaaa"/>
+   <stop style="vector-effect: non-scaling-stroke;" offset="1" stop-opacity="0.99609" stop-color="#ff5656"/>
+  </linearGradient>
+  <linearGradient style="vector-effect: non-scaling-stroke;" y2="0" x2="1" y1="0" x1="0" id="svg_13">
+   <stop style="vector-effect: non-scaling-stroke;" offset="0" stop-opacity="0.99219" stop-color="#ffaaaa"/>
+   <stop style="vector-effect: non-scaling-stroke;" offset="1" stop-opacity="0.99609" stop-color="#ff7f00"/>
+  </linearGradient>
+  <linearGradient style="vector-effect: non-scaling-stroke;" y2="0" x2="0" y1="0" x1="1" id="svg_14">
+   <stop style="vector-effect: non-scaling-stroke;" offset="0" stop-opacity="0.99609" stop-color="#ffaaaa"/>
+   <stop style="vector-effect: non-scaling-stroke;" offset="1" stop-opacity="0.99609" stop-color="#ff5656"/>
+  </linearGradient>
+  <linearGradient style="vector-effect: non-scaling-stroke;" y2="0" x2="0" y1="0" x1="1" id="svg_21">
+   <stop style="vector-effect: non-scaling-stroke;" offset="0" stop-opacity="0.99609" stop-color="#ffffaa"/>
+   <stop style="vector-effect: non-scaling-stroke;" offset="1" stop-opacity="0.99609" stop-color="#ffaa56"/>
+  </linearGradient>
+  <linearGradient style="vector-effect: non-scaling-stroke;" y2="0" x2="1" y1="0" x1="0" id="svg_22">
+   <stop style="vector-effect: non-scaling-stroke;" offset="0" stop-opacity="0.99609" stop-color="#ffffaa"/>
+   <stop style="vector-effect: non-scaling-stroke;" offset="1" stop-opacity="0.99609" stop-color="#ff7f00"/>
+  </linearGradient>
+  <linearGradient style="vector-effect: non-scaling-stroke;" y2="1" x2="0" y1="1" x1="1" id="svg_24">
+   <stop style="vector-effect: non-scaling-stroke;" offset="0" stop-opacity="0.99609" stop-color="#ffffaa"/>
+   <stop style="vector-effect: non-scaling-stroke;" offset="1" stop-opacity="0.99609" stop-color="#ffaa56"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="601" width="802" y="-1" x="-1"/>
+  <g style="vector-effect: non-scaling-stroke;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect style="vector-effect: non-scaling-stroke;" transform="rotate(9, 913.083, 153.957)" rx="100" id="svg_23" height="378.56607" width="110.17846" y="-35.32582" x="857.99411" fill-opacity="0.81" stroke-width="1.5" fill="url(#svg_24)"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="80.5" rx="85" id="svg_6" cy="489.95" cx="-17.5" fill-opacity="0.73" stroke-width="1.5" stroke="#ffd4aa" fill="url(#svg_22)"/>
+  <path fill-opacity="0.83" transform="rotate(30, 547.537, 305.039)" id="svg_12" d="m248.64677,-119.08639c-629.74935,53.7186 818.95838,1105.06915 728.93964,789.17725c-37.56688,84.94707 73.78771,-636.28321 5.03324,-781.10487" stroke-width="1.5" stroke="#ffaaaa" fill="url(#svg_13)"/>
+  <ellipse transform="rotate(-25.5257, 307.686, 114.261)" ry="21.15818" rx="19.99058" id="svg_18" cy="114.26052" cx="307.68615" fill-opacity="0.81" stroke-width="1.5" fill="url(#svg_21)"/>
+  <ellipse ry="34.5" rx="31.5" id="svg_7" cy="572.95001" cx="472.00001" fill-opacity="0.49" stroke-width="1.5" fill="url(#svg_14)"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="132.5" rx="159" id="svg_9" cy="788.95001" cx="79.49995" stroke-width="1.5" stroke="#ffaa56" fill="url(#svg_8)"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="44" rx="38" id="svg_16" cy="621.45002" cx="165.50002" stroke-width="1.5" stroke="#ffaaaa" fill="url(#svg_14)"/>
+  <ellipse style="vector-effect: non-scaling-stroke;" ry="53.49999" rx="59" id="svg_17" cy="561.94999" cx="996.50008" fill-opacity="0.92" stroke-width="1.5" fill="url(#svg_14)"/>
+  <ellipse transform="rotate(-7.15045, 785.62, 166.319)" ry="15.31714" rx="15.26416" id="svg_25" cy="166.31854" cx="785.61984" fill-opacity="0.81" stroke-width="1.5" fill="url(#svg_21)"/>
+ </g>
+</svg>
