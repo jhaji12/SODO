@@ -931,7 +931,6 @@ padding-left : 10px;
 .control-testimonial{
   float: left;
   margin-left: 40px; 
-  margin-bottom: 70px;
 }
 .intro-testimonial{
   margin-top:20px;
@@ -1086,16 +1085,10 @@ padding-left : 10px;
 /* RESPONSIVE */
 @media screen and (max-width: 767px) {
   .carousel {
-    margin: 100px auto;
+    margin: 40px auto;
      padding: 0 10px;
   }
-
-  .carousel-line{
-    height: 2px;
-    width: 300px;
-    background-color: #fe8464;
-    margin: auto;
-  }
+  
 
   .carousel-item:after {
 		left: 0;
@@ -1133,10 +1126,6 @@ padding-left : 10px;
   }
 }
 @media only screen and (min-width: 345px) and (max-width: 991px){
-  .carousel .testimonial{
-    padding-left: 10px;
-    padding-right: 3px;
-  }
   .testimonialtitle{
     /* padding-left: 50px; */
     text-align: center;
@@ -1151,24 +1140,16 @@ padding-left : 10px;
     border-radius: 50%;
   }
   .carousel .testimonial {
-    padding: 10px 0 10px;
+    padding: 10px 0 0px;
    color: #000000;
    text-align: left;
-   padding-left: 90px;
-   padding-right: 1px;
+   padding-left: 60px;
    margin-left: 70px;
    margin-top: 5px;
    font-weight:bold;
    line-height: 1.7em;
    font-size: 13px;
  }
- .carousel-line{
-  height: 3px;
-  width: 200px;
-  background-color: #fc9432;
-  margin-left: 150px;
-  margin-top: 1px;
-}
 .carousel .overview {
   font-size: 10px;
   margin-bottom: 5px; 
@@ -1176,19 +1157,27 @@ padding-left : 10px;
 .company-name{
   font-size: 10px;
 }
+.carousel-line{
+  height: 2px;
+  width: 350px;
+  background-color: #fc9432;
+  margin-left: 125px;
+  margin-top: 1px;
+}
 .control-testimonial{
-  float: left;
-  margin-left: 20px; 
-  margin-bottom: 35px;
+
+  margin-left: 15px; 
+
+
 }
 .carousel-title{
   margin: 25px;
   color: #000000;
   margin-top: 5px;
   margin-bottom: 15px;
-  font-size: 18px;
-  margin-left: 100px;
-  padding-left: 50px;
+  font-size: 15px;
+  padding-left: 110px;
+
 }
 
 .carousel-inner {
@@ -1198,9 +1187,13 @@ padding-left : 10px;
   background-color: #ffffff;
   border-radius: 20px;
   padding-right: 25px;
-  padding-top: 50px;
-  padding-bottom: 2px;
+  padding-top: 30px;
   margin-right: 35px;
+}
+.intro-testimonial{
+  margin-top:10px;
+  color: #808080;
+  margin-bottom: 0;
 }
 }
 
